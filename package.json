@@ -1,6 +1,6 @@
 {
-  "name": "platzom",
-  "version": "0.1.0",
+  "name": "alexguaman_platzom",
+  "version": "0.1.1",
   "description": "Traductor platzom curso platzi",
   "main": "dist/src/platzom.js",
   "scripts": {
